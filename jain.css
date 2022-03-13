@@ -1,0 +1,89 @@
+.mq2{
+    height: 45px;
+    display: flex;
+    align-items: center;
+    background-color: aqua;
+    font-size: 25px;
+    font-weight: bold;
+    border: 3px solid black;
+    border-radius: 30px;
+    margin-top: 10px;
+}
+.img1{
+    background-image: url("/jjjjjj-5.jpg");
+    background-size: 100%;
+    border: 3px solid black;
+border-radius: 30px;
+    background-repeat: no-repeat;
+    height: 30rem;
+z-index: 1;
+}
+#img1-1 a:hover{
+border: 1px solid rgb(16, 38, 35);
+}
+
+.wrapper iframe{
+    margin-top: 20px;
+    border: 2px solid black;
+    border-radius: 30px;
+}
+.section-1{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-top: 20px;
+    border: 3px solid black;
+    border-radius: 10px;
+    background-color: rgb(79, 119, 119);
+}
+.right{
+    font-family: 'Roboto', sans-serif;
+    margin: 15px;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 10px;
+}
+.one div{
+    padding: 20px;
+    color: rgb(5, 3, 3);
+    background-color: rgb(236, 252, 252);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+text-align: center;
+font-size: 1.5rem;
+font-family: 'Roboto', sans-serif;
+}
+.two{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(253, 249, 249);
+}
+.two img{
+    padding-right: 40px;
+}
+.three{
+    background-color: rgb(9, 12, 12);
+    color: white;
+    display: flex;
+    justify-content: center;
+   align-items: center;
+   height: 40px;
+}
+.social{
+    background-color: rgb(233, 230, 227);
+}
+.so-1, .so-2{
+    color: rgb(4, 4, 5);
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+}
+.so-2 i{
+    margin: 25px;    
+}
+.so-2 i:hover{
+    transform: scale(1.5);
+}
